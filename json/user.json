@@ -1,0 +1,58 @@
+{
+  "id": "ad12ng45",
+  "name": "Denis",
+  "lastName": "Maskalenka",
+  "login": "DenisM",
+  "date": "05.10.1991",
+  "email": "mosktest@gmail.com",
+  "phone": "+375291112233",
+  "cardNumber": "4690688008021",
+  "bonusSum": 67,
+  "pointsSum": 23,
+  "amountSum": 675.44,
+  "nameCompany": {
+    "name": "Red Company",
+    "id": "ff0000"
+  },
+  "logoCompany": "https://www.hollywoodreporter.com/wp-content/uploads/2012/12/img_logo_blue.jpg?w=2000&h=1126&crop=1",
+  "companyList": [
+    {
+      "name": "Red Company",
+      "id": "ff0000",
+      "styles": {
+        "backgroundColorGlobal": "#ffa141",
+        "backgroundColorButton": "#ff1414",
+        "borderColor": "#ff4500",
+        "colorText": "000000",
+        "colorButton": "#ff0000"
+      }
+    },
+    {
+      "name": "Light Company",
+      "id": "00ff00",
+      "styles": {
+        "backgroundColorGlobal": "#dfffee",
+        "backgroundColorButton": "#2bba00",
+        "borderColor": "#7da2ff",
+        "colorText": "000000",
+        "colorButton": "#00ab0d"
+      }
+    },
+    {
+      "name": "Dark Company",
+      "id": "ffff00",
+      "styles": {
+        "backgroundColorGlobal": "#3b3838",
+        "backgroundColorButton": "#1963d2",
+        "borderColor": "#8a8282",
+        "colorText": "#ffffff",
+        "colorButton": "#ff9f00"
+      }
+    }
+  ],
+  "discountGroup": {
+    "name": "Лёгкий",
+    "value": "10%"
+  },
+  "theme": "dark"
+}

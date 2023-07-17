@@ -1,0 +1,30 @@
+[
+  {
+    "id": "1",
+    "name": "company1",
+    "theme": "dark",
+    "logoCompany": "https://www.hollywoodreporter.com/wp-content/uploads/2012/12/img_logo_blue.jpg?w=2000&h=1126&crop=1"
+  },
+  {
+    "id": "2",
+    "name": "company2",
+    "theme": "light",
+    "logoCompany": "https://www.hollywoodreporter.com/wp-content/uploads/2012/12/img_logo_blue.jpg?w=2000&h=1126&crop=1"
+
+
+  },
+  {
+    "id": "3",
+    "name": "company3",
+    "theme": "dark",
+    "logoCompany": "https://www.hollywoodreporter.com/wp-content/uploads/2012/12/img_logo_blue.jpg?w=2000&h=1126&crop=1"
+
+  },
+  {
+    "id": "4",
+    "name": "company4",
+    "theme": "dark",
+    "logoCompany": "https://www.hollywoodreporter.com/wp-content/uploads/2012/12/img_logo_blue.jpg?w=2000&h=1126&crop=1"
+
+  }
+]

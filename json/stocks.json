@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Весна в Cofix",
+    "type": "news",
+    "typeName": "Новости",
+    "content": "",
+    "bgImageUrl": "https://img.freepik.com/free-photo/vivid-blurred-colorful-background_58702-2655.jpg?size=626&ext=jpg"
+  },
+  {
+    "id": 2,
+    "name": "",
+    "type": "all",
+    "typeName": "Подписка",
+    "content": "Подписка 'Кофе XL по цене L'",
+    "bgImageUrl": "https://img.freepik.com/free-photo/vivid-blurred-colorful-background_58702-2655.jpg?size=626&ext=jpg"
+
+  },
+  {
+    "id": 3,
+    "name": "Полезный перекус за 2 рубля",
+    "type": "all",
+    "typeName": "Комбо",
+    "content": "Напиток S + гранола за 5 рублей",
+    "bgImageUrl": "https://img.freepik.com/free-photo/vivid-blurred-colorful-background_58702-2655.jpg?size=626&ext=jpg"
+
+  },
+  {
+    "id": 4,
+    "name": "Cofix дарит подарки",
+    "type": "news",
+    "typeName": "Новости",
+    "content": "100 балов на День Рождения",
+    "bgImageUrl": "https://img.freepik.com/free-photo/vivid-blurred-colorful-background_58702-2655.jpg?size=626&ext=jpg"
+
+  },
+  {
+    "id": 5,
+    "name": "Только в дни матчей!",
+    "type": "all",
+    "typeName": "Акция",
+    "content": "Абонимент Динамо Минск + Cofix = Скидка",
+    "bgImageUrl": "https://reactjs.org/logo-og.png"
+  },
+  {
+    "id": 6,
+    "name": "#приюти_не_покупай",
+    "type": "news",
+    "typeName": "Новости",
+    "content": "Cofix + Sobakoshkino = Дружба!",
+    "bgImageUrl": ""
+  },
+  {
+    "id": 7,
+    "name": "Денис Тест",
+    "type": "person",
+    "typeName": "Персональные",
+    "content": "Денис Тест очень информативный текст для информации",
+    "bgImageUrl": "https://reactjs.org/logo-og.png"
+  }
+]
+

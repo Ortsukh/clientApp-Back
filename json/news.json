@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "tag": "Весна в Cofix",
+    "active": true,
+    "date": "12.12.2000",
+    "name": "Весна в Cofix Март Цветы Тюльпаны Солнце Небо",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Explicabo hic incidunt laborum optio, quo sunt. Aspernatur culpa cupiditate maxime numquam placeat similique, vitae? Dolore dolorem eligendi, enim iusto provident veniam.",
+    "bgImageUrl": "../src/images/stocks.jpg"
+  },
+  {
+    "id": 2,
+    "tag": "Кофе халява",
+    "active": true,
+    "date": "12.12.2000",
+    "name": "Подписка 'Кофе XL по цене L'",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Explicabo hic incidunt laborum optio, quo sunt. Aspernatur culpa cupiditate maxime numquam placeat similique, vitae? Dolore dolorem eligendi, enim iusto provident veniam.",
+    "bgImageUrl": "../src/images/stocks.jpg"
+  },
+  {
+    "id": 3,
+    "tag": "Полезный перекус за 2 рубля",
+    "active": true,
+    "date": "12.12.2000",
+    "name": "Напиток S + гранола за 5 рублей",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Explicabo hic incidunt laborum optio, quo sunt. Aspernatur culpa cupiditate maxime numquam placeat similique, vitae? Dolore dolorem eligendi, enim iusto provident veniam.",
+    "bgImageUrl": "../src/images/stocks.jpg"
+  },
+  {
+    "id": 4,
+    "tag": "Cofix дарит подарки",
+    "active": false,
+    "date": "12.12.2000",
+    "name": "100 балов на День Рождения",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Explicabo hic incidunt laborum optio, quo sunt. Aspernatur culpa cupiditate maxime numquam placeat similique, vitae? Dolore dolorem eligendi, enim iusto provident veniam.",
+    "bgImageUrl": "../src/images/stocks.jpg"
+  },
+  {
+    "id": 5,
+    "tag": "Только в дни матчей!",
+    "active": false,
+    "date": "12.12.2000",
+    "name": "Абонимент Динамо Минск + Cofix = Скидка",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Explicabo hic incidunt laborum optio, quo sunt. Aspernatur culpa cupiditate maxime numquam placeat similique, vitae? Dolore dolorem eligendi, enim iusto provident veniam.",
+    "bgImageUrl": "../src/images/stocks.jpg"
+  },
+  {
+    "id": 6,
+    "tag": "#приюти_не_покупай",
+    "active": true,
+    "date": "12.12.2000",
+    "name": "Cofix + Sobakoshkino = Дружба!",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Explicabo hic incidunt laborum optio, quo sunt. Aspernatur culpa cupiditate maxime numquam placeat similique, vitae? Dolore dolorem eligendi, enim iusto provident veniam.",
+    "bgImageUrl": "../src/images/stocks.jpg"
+  },
+  {
+    "id": 7,
+    "tag": "Денис Тест",
+    "active": false,
+    "date": "12.12.2000",
+    "name": "Денис Тест очень информативный текст для информации",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Explicabo hic incidunt laborum optio, quo sunt. Aspernatur culpa cupiditate maxime numquam placeat similique, vitae? Dolore dolorem eligendi, enim iusto provident veniam.",
+    "bgImageUrl": "../src/images/stocks.jpg"
+  }
+]
